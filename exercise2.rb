@@ -4,4 +4,5 @@ puts "Adding a number to a string " + 15.to_s
 
 puts "The result of 45628 multiplied by 7839 is #{45628 * 7839}"
 
+puts "The condition (10 < 20 && 30 < 20) || !(10 == 11) will return true"
 puts (10 < 20 && 30 < 20) || !(10 == 11)
